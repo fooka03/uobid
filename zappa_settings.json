@@ -1,0 +1,12 @@
+{
+    "dev": {
+        "app_function": "main.app",
+        "aws_region": "us-east-1",
+        "profile_name": "personal",
+        "project_name": "uobid",
+        "runtime": "python3.6",
+        "s3_bucket": "uobid-dev",
+        "domain": "uobid.slickassets.com",
+        "certificate_arn": "arn:aws:acm:us-east-1:904746521087:certificate/e9aab59a-57b1-4bff-ad42-96cd4f656a45"
+    }
+}
